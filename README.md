@@ -1,6 +1,6 @@
 # Vixel
 
-![Logo de la empresa](Vixel_VaraNetwork/frontend/VIXEL_LandingPage/src/icons/VixelSinFondo.png) <!-- Reemplaza con la ruta del logo -->
+<img src="Vixel_VaraNetwork/frontend/VIXEL_LandingPage/src/icons/VixelSinFondo.png" alt="Logo de la empresa" width="200"/>
 
 **Welcome to Vixel!** A revolutionary platform dedicated to bringing gamers together for an exhilarating experience in the world of competitive gaming and streaming.
 
