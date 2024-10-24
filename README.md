@@ -1,5 +1,6 @@
+# VIXEL
+
 <p align="center">
-  <h1>Vixel</h1>
   <img src="Vixel_VaraNetwork/frontend/VIXEL_LandingPage/src/icons/VixelSinFondo.png" alt="Logo de la empresa" width="200"/>
 </p>
 
