@@ -1,9 +1,10 @@
 # Vixel
 
-<img src="Vixel_VaraNetwork/frontend/VIXEL_LandingPage/src/icons/VixelSinFondo.png" alt="Logo de la empresa" width="200"/>
+<p align="center">
+  <img src="Vixel_VaraNetwork/frontend/VIXEL_LandingPage/src/icons/VixelSinFondo.png" alt="Logo de la empresa" width="200"/>
+</p>
 
 **Welcome to Vixel!** A revolutionary platform dedicated to bringing gamers together for an exhilarating experience in the world of competitive gaming and streaming.
-
 ## About Vixel
 Vixel is a decentralized gaming platform that allows users to create and join tournaments while ensuring transparency regarding rewards. Our mission is to provide a secure environment where players can trust that their efforts will be rewarded fairly with cryptocurrencies and NFTs.
 
