@@ -1,6 +1,6 @@
 # Vixel
 
-![Logo de la empresa](Vixel_VaraNetwork/frontend/VIXEL_LandingPage/src/icons/logito.png) <!-- Reemplaza con la ruta del logo -->
+![Logo de la empresa](Vixel_VaraNetwork/frontend/VIXEL_LandingPage/src/icons/VixelSinFondo.png) <!-- Reemplaza con la ruta del logo -->
 
 **Welcome to Vixel!** A revolutionary platform dedicated to bringing gamers together for an exhilarating experience in the world of competitive gaming and streaming.
 
@@ -14,7 +14,7 @@ Vixel is a decentralized gaming platform that allows users to create and join to
 - **Transparency:** Utilize blockchain technology to ensure that every tournament and its prizes are publicly verifiable and trustworthy.
 
 ## Projects
-
+We create our own games, aiming to provide players with an enjoyable and immersive experience. Our passion for gaming drives us to innovate and deliver high-quality content that keeps our community engaged and excited.
 ### CoinersDrifters:
 - **Vanilla Version:** [Coiners_Drift_Demo](https://github.com/RichieCast07/Coiners_Drift_Demo)
 - **Migration in Progress:** [CoinersDrift_React](https://github.com/AnabelenScript/CoinersDrift_React)
